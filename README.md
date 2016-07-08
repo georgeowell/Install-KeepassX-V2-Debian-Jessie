@@ -6,7 +6,7 @@ This can be problematic when interacting other operating systems such as OSX, Wi
 
 You can import the old **.kdb** databases into KeepassX 2.0 (and onwards) but you will then required to save the database in the new **.kdbx** format to access it. 
 
-This command will install the newest version of KeepassX from the Debian Jessie Backports Repository. Make **absolutely sure** you have a backup of your password database before you attempt to migrate to the newer version of KeepassX. 
+This command will install the newest version of KeepassX from the Debian Jessie backports repository. Make **absolutely sure** you have a backup of your password database before you attempt to migrate to the newer version of KeepassX.
 
 ###Launch the Terminal from the Applications Menu###
 
