@@ -53,8 +53,10 @@ Then select:
 
 
 ###Any Problems?###
-Open an issue on the Github Page:
-[Simple command to install password manager KeepassX version 2 on Debian 8 Jessie and Tails](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie)
+Open an issue on the project's Github page:
 
-Or Try:
+[Github](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie)
+
+Or try the Tails community's help page:
+
 [Tails Support Page](https://tails.boum.org/support/index.en.html)
