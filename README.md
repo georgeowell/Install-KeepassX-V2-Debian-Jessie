@@ -12,11 +12,13 @@ This command will install the newest version of KeepassX from the Debian Jessie 
 
 > Applications>Utilities>Terminal
 
+![Launch Terminal](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Launch%20Terminal.png)
 
 ###You can see the current available versions of KeepassX in Debian by running the command:###
 ```bash
 apt list keepassx -a
 ```
+![Find KeepassX Version Number](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Find%20KeepassX%20Version%20Number.png)
 
 ###Running the command manually###
 
@@ -36,7 +38,13 @@ You can copy the handy bash script `install-keepassx2` to your home directory `/
 
 You must then mark the script as an executable program to be able to run it:
 
-Right click on the script and select Properties. Then select the Permissions tab and tick the box that say "Allow executing file as program".
+Right click on the script and select Properties.
+
+![Opening Properties](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Opening%20Properties.png)
+
+Then select the Permissions tab and tick the box that say "Allow executing file as program".
+
+![Marking Bash Script As Executable](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Marking%20Bash%20Script%20As%20Executable.png)
 
 Then you can run the script by dragging it into the Terminal app and pressing enter. You should then be prompted to enter your root password. Hit enter and the script will run. You can then close the Terminal.
 
