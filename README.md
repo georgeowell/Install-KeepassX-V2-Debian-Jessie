@@ -18,7 +18,6 @@ This command will install the newest version of KeepassX from the Debian Jessie 
 ```bash
 apt list keepassx -a
 ```
-![Find KeepassX Version Number](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Find%20KeepassX%20Version%20Number.png)
 
 ###Running the command manually###
 
@@ -58,6 +57,8 @@ You should now have version 2.02 of KeepassX installed. You can check this by la
 Then select: 
 
 > Help>About
+
+![Find KeepassX Version Number](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Find%20KeepassX%20Version%20Number.png)
 
 
 ###Any Problems?###
