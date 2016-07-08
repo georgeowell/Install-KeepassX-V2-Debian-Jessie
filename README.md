@@ -64,4 +64,4 @@ Then select:
 ###Any Problems?###
 Open an issue on the project's Github page: [https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie)
 
-Or try the Tails community's help page: [https://tails.boum.org/support/index.en.html](https://tails.boum.org/support/index.en.html)
+Or try the Tails projects's help page: [https://tails.boum.org/support/index.en.html](https://tails.boum.org/support/index.en.html)
