@@ -29,10 +29,10 @@ sudo apt-get -t jessie-backports install keepassx
 Then type in your root password and press enter.
 
 
-###Running the command using The Bash Script
+###Running the command using the bash script
 A bash script is a simple file which can simplify running complex commands.
 
-You can copy the handy bash script to your home directory `/home/yourusername/`. If you're using Tails with persistent storage, you should save to `/home/amnesia/Persistent/` to preserve the file between reboots.
+You can copy the handy bash script `install-keepassx2` to your home directory `/home/yourusername/`. If you're using Tails with persistent storage, you should save to `/home/amnesia/Persistent/` to preserve the file between reboots.
 
 You must then mark the script as an executable program to be able to run it:
 
@@ -43,7 +43,7 @@ Then you can run the script by dragging it into the Terminal app and pressing en
 
 ###Launch KeepassX###
 
-You should now have version 2.02 or KeepassX installed. You can check this by launching KeepassX from the Applications menu.
+You should now have version 2.02 of KeepassX installed. You can check this by launching KeepassX from the Applications menu.
 
 > Applications>Accessories>KeepassX
 
