@@ -10,7 +10,7 @@ This command will install the newest version of KeepassX from the Debian Jessie 
 
 ###Launch the Terminal from the Applications Menu###
 
-```Applications>Utilities>Terminal```
+`Applications>Utilities>Terminal`
 
 ![Launch Terminal](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Launch%20Terminal.png)
 
@@ -52,11 +52,11 @@ Then you can run the script by dragging it into the Terminal app and pressing en
 
 You should now have version 2.02 of KeepassX installed. You can check this by launching KeepassX from the Applications menu.
 
-```Applications>Accessories>KeepassX```
+`Applications>Accessories>KeepassX`
 
 Then select: 
 
-```Help>About```
+`Help>About`
 
 ![Find KeepassX Version Number](https://github.com/georgeowell/Install-KeepassX-V2-Debian-Jessie/blob/master/images/Find%20KeepassX%20Version%20Number.png)
 
