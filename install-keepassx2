@@ -2,4 +2,4 @@
 #
 # This script installs KeepassX version 2.0.2 from the Debian Jessie backports repository
 #
-gksudo apt-get -t jessie-backports install keepassx -y
+gksudo apt-get -t jessie-backports install keepassx
